@@ -23,7 +23,7 @@ The goals / steps of this project are the following:
     6) Compute 2 main lines
     7) Average main lines over previous frames
     8) Overlay Lines and Lane over original input
-    (see documentation above for more detail)
+    (see Jupyter Notebook for more details on pipeline)
 
 ### 2. Identify potential shortcomings with your current pipeline
 
