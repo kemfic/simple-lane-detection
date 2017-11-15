@@ -30,7 +30,7 @@ Current Pipeline:
 
 ### 2. Identify potential shortcomings with your current pipeline
 
-The current pipeline works great for detecting straight, or slightly curved lanes. It handled the challenge video extremely well, mainly due to the smoothing caused by the interframe averaging. However, this is not good for use in the read world. The program doesn't account for curvature.
+The current pipeline works great for detecting straight, or slightly curved lanes. It handled the challenge video extremely well, mainly due to the smoothing caused by the interframe averaging. However, this is not good for use in the real world. The program doesn't account for curvature, and the lane filtering method does not work well with sharp turns.
 
 
 ### 3. Suggest possible improvements to your pipeline
