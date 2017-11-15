@@ -16,15 +16,17 @@ The goals / steps of this project are the following:
 
 Current Pipeline:
     
-    1) Mask out everything excluding Lane Lines
-    2) Crop out the Region of Interest
-    3) Apply Canny Edge Detection
-    4) Compute the Hough Lines
-    5) Filter out and differentiate lines
-    6) Compute 2 main lines
-    7) Average main lines over previous frames
-    8) Overlay Lines and Lane over original input
-    (see Jupyter Notebook for more details on pipeline)
+1) Mask out everything excluding Lane Lines
+2) Crop out the Region of Interest
+3) Apply Canny Edge Detection
+4) Compute the Hough Lines
+5) Filter out and differentiate lines
+6) Compute 2 main lines
+7) Average main lines over previous frames
+8) Overlay Lines and Lane over original input
+
+
+(see Jupyter Notebook for more details on pipeline)
 
 ### 2. Identify potential shortcomings with your current pipeline
 
