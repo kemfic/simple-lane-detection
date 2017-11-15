@@ -13,7 +13,8 @@ The goals / steps of this project are the following:
 ### Reflection
 
 ### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
-    Current Pipeline:
+
+Current Pipeline:
     
     1) Mask out everything excluding Lane Lines
     2) Crop out the Region of Interest
